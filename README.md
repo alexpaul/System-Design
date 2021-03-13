@@ -28,7 +28,7 @@
 ![tik tok posting design](https://user-images.githubusercontent.com/1819208/111033456-4a27cc80-83df-11eb-9642-8c95ca01c448.png)
 
 
-## Key Terminalogies
+## Key Terminologies
 
 ## Last minute add-ons at the end of the interview
 
