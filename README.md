@@ -19,6 +19,7 @@
 * Regional data centers 
 * API endpoints behind a CDN to scale traffic 
 * 5mb per video?? 1 minute video?? 
+* shards - helps split load between databases???
 
 
 ## Tik Tok - Posting 
