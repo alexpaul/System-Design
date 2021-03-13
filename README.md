@@ -20,6 +20,7 @@
 * API endpoints behind a CDN to scale traffic 
 * 5mb per video?? 1 minute video?? 
 * shards - helps split load between databases???
+* microservices - e.g load balancing etc....
 
 
 ## Tik Tok - Posting 
@@ -28,6 +29,12 @@
 
 
 ## Key Terminalogies
+
+## Last minute add-ons at the end of the interview
+
+* Database structure 
+* Caching optimization 
+* etc.....
 
 
 ## Video Resources 
