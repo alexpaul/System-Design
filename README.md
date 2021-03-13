@@ -39,4 +39,4 @@
 
 ## Video Resources 
 
-1. [Design Tik Tok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+1. [Design Tik Tok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw) ⭐️⭐️⭐️⭐️⭐️
