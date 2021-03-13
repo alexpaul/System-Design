@@ -18,4 +18,4 @@
 * CDN: support 10x traffic, cached locally so all users are grabbing it from the CDN
 
 
-## Key Terminalogy 
+## Key Terminalogies
