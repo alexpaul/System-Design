@@ -15,7 +15,15 @@
 * worker 
 * job
 * bottle necks: solution maybe regions, geolocating, cdn (akamai) 
-* CDN: support 10x traffic, cached locally so all users are grabbing it from the CDN
+* CDN: support 10x traffic, cached locally so all users are grabbing it are grabbing it from the CDN
+* Regional data centers 
+* API endpoints behind a CDN to scale traffic 
+* 5mb per video?? 1 minute video?? 
+
+
+## Tik Tok - Posting 
+
+![tik tok posting design](https://user-images.githubusercontent.com/1819208/111033456-4a27cc80-83df-11eb-9642-8c95ca01c448.png)
 
 
 ## Key Terminalogies
