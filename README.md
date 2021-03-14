@@ -60,7 +60,7 @@
 3. [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 4. [Load Balancing](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 5. [Caching](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
-6. [Long-Polling vs WebSockets vs Server-Sent Events](Long-Polling vs WebSockets vs Server-Sent Events)
+6. [Long-Polling vs WebSockets vs Server-Sent Events](https://www.educative.io/courses/grokking-the-system-design-interview/gx7wZzWn5Vj)
 
 ## Video Resources 
 
