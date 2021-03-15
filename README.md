@@ -65,6 +65,7 @@
 7. [Whimsical - create your system designs](https://whimsical.com/)
 8. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 9. [HTTP vs Webscokets](https://medium.com/platform-engineer/web-api-design-35df8167460)
+10. [How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
 
 ## Video Resources 
 
