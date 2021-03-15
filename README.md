@@ -65,7 +65,7 @@
 ## Video Resources 
 
 1. [Design Tik Tok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw) ⭐️⭐️⭐️⭐️⭐️
-2. [System Design - Basics through various structures e.g Load Balancers](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+2. [System Design - Basics through various structures e.g Load Balancers](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) ⭐️⭐️⭐️⭐️⭐️
 3. [System Design - Apporach and Structure](https://www.youtube.com/watch?v=0163cssUxLA)
 4. [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 5. [Design Uber, Lyft..](https://www.youtube.com/watch?v=J3DY3Te3A_A)
