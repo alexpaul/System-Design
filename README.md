@@ -63,6 +63,7 @@
 5. [Caching](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 6. [Long-Polling vs WebSockets vs Server-Sent Events](https://www.educative.io/courses/grokking-the-system-design-interview/gx7wZzWn5Vj)
 7. [Whimsical - create your system designs](https://whimsical.com/)
+8. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 
 ## Video Resources 
 
