@@ -34,6 +34,9 @@
 
 > How can we build a more intelligent cache? If we go with the eighty-twenty rule, i.e., 20% of daily read volume for photos is generating 80% of the traffic, which means that certain photos are so popular that most people read them. This dictates that we can try caching 20% of the daily read volume of photos and metadata.
 
+## Design Instagram 
+
+![instagram](https://user-images.githubusercontent.com/1819208/111320488-6628a980-863d-11eb-9861-bc99e74e07ac.png)
 
 
 ## Avoiding Bottlenecks 
