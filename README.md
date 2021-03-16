@@ -36,7 +36,7 @@
 
 ## Design Instagram 
 
-![instagram](https://user-images.githubusercontent.com/1819208/111320488-6628a980-863d-11eb-9861-bc99e74e07ac.png)
+![instagram](https://user-images.githubusercontent.com/1819208/111320572-80628780-863d-11eb-959e-abbe53156d4d.png)
 
 
 ## Avoiding Bottlenecks 
