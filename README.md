@@ -49,7 +49,7 @@
 5. [Caching](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 6. [Long-Polling vs WebSockets vs Server-Sent Events](https://www.educative.io/courses/grokking-the-system-design-interview/gx7wZzWn5Vj)
 7. [Whimsical - create your system designs](https://whimsical.com/)
-8. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
+8. [Microservice Architecture](https://microservices.io/patterns/microservices.html) ⭐️⭐️⭐️⭐️⭐️
 9. [HTTP vs Webscokets](https://medium.com/platform-engineer/web-api-design-35df8167460)
 10.[How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
 
