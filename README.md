@@ -38,21 +38,7 @@
 
 ## Avoiding Bottlenecks 
 
-* split reads and writes into separate services (servers)
-
-
-## Tik Tok - Posting 
-
-![tik tok posting design](https://user-images.githubusercontent.com/1819208/111033456-4a27cc80-83df-11eb-9642-8c95ca01c448.png)
-
-
-## Key Terminologies
-
-## Last minute add-ons at the end of the interview
-
-* Database structure 
-* Caching optimization 
-* etc.....
+* split reads and writes into separate services
 
 ## Reources 
 
@@ -65,7 +51,7 @@
 7. [Whimsical - create your system designs](https://whimsical.com/)
 8. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 9. [HTTP vs Webscokets](https://medium.com/platform-engineer/web-api-design-35df8167460)
-10. [How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
+10.[How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
 
 ## Video Resources 
 
