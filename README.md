@@ -1,4 +1,4 @@
-# Systems-Design
+# System Design
 
 * Relational database (joins) vs NoSQL database 
 * NoSQL vs SQL
