@@ -43,7 +43,7 @@
 
 * split reads and writes into separate services
 
-## Reources 
+## Resources 
 
 1. [Object Storage](https://en.wikipedia.org/wiki/Object_storage)
 2. [NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
