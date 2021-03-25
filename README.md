@@ -38,10 +38,25 @@
 
 ![instagram](https://user-images.githubusercontent.com/1819208/111321241-20201580-863e-11eb-8c77-32f2357d8370.png)
 
+## Google Jamboard 
+
+![google jamboard](https://user-images.githubusercontent.com/1819208/112461657-88ee4880-8d36-11eb-88a8-e2311ac48058.png)
+
+## Google Drawings
+
+![google drawings](https://user-images.githubusercontent.com/1819208/112461759-a3c0bd00-8d36-11eb-9ba4-98a47bba9a22.png)
+
 
 ## Avoiding Bottlenecks 
 
 * split reads and writes into separate services
+
+## Resources to use to draw desings 
+
+1. [Whimsical - create your system designs](https://whimsical.com/)
+2. [Google Jamboard](https://jamboard.google.com/)
+3. [Google Drawings](https://docs.google.com/drawings/)
+
 
 ## Resources 
 
@@ -51,11 +66,10 @@
 4. [Load Balancing](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 5. [Caching](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 6. [Long-Polling vs WebSockets vs Server-Sent Events](https://www.educative.io/courses/grokking-the-system-design-interview/gx7wZzWn5Vj)
-7. [Whimsical - create your system designs](https://whimsical.com/)
-8. [Microservice Architecture](https://microservices.io/patterns/microservices.html) ⭐️⭐️⭐️⭐️⭐️
-9. [HTTP vs Webscokets](https://medium.com/platform-engineer/web-api-design-35df8167460)
-10. [How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
-11. [iOS System Design Example](https://medium.com/@m3amer/ios-system-design-architecture-example-d55384da1449) ⭐️⭐️⭐️⭐️⭐️
+7. [Microservice Architecture](https://microservices.io/patterns/microservices.html) ⭐️⭐️⭐️⭐️⭐️
+8. [HTTP vs Webscokets](https://medium.com/platform-engineer/web-api-design-35df8167460)
+9. [How to prepare for System Design Interviews for iOS Developer](https://www.teamblind.com/post/How-to-prepare-for-System-Design-Interviews-for-iOS-Developer-J5UaH3bz)
+10. [iOS System Design Example](https://medium.com/@m3amer/ios-system-design-architecture-example-d55384da1449) ⭐️⭐️⭐️⭐️⭐️
 
 ## Video Resources 
 
